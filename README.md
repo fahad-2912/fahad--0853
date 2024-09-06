@@ -1,5 +1,5 @@
 # fahad--0853
-Repository for my project
+Repository for project
 # Heading 1
 this is first section
 # Heading 2 
